@@ -606,6 +606,7 @@ Here are some companies/projects (alphabetical order) using OpenAPI Generator in
 - [JustStar](https://www.juststarinfo.com)
 - [k6.io](https://k6.io/)
 - [Klarna](https://www.klarna.com/)
+- [Kosmos Education](https://www.kosmos-education.com/)
 - [Kronsoft Development](https://www.kronsoft.ro/home/)
 - [Kubernetes](https://kubernetes.io)
 - [Linode](https://www.linode.com/)
